@@ -44,7 +44,7 @@ print(f"{me.name} is building the future with code!")
 <div align="center">
 
 ### 🎉 Hacktoberfest Super Contributor 2024
-[![Holopin Badge](https://holopin.me/@aayushspideysharma)](https://holopin.io/@aayushspideysharma)
+[![Holopin Badge](https://holopin.me/@aayushspideysharma#badges)](https://holopin.io/@aayushspideysharma#badges)
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
